@@ -36,10 +36,14 @@
 
 |service|version|
 |--|--|
-|**SpringBoots**|v16.x|
+|**SpringBoots**|v2.7.x|
+|**JAVA**|v11|
 |**REDIS**|v3.0.x|
 |**CoolSMS**|cloud_service|
-|**MySQL**|5.7.x|
+|**MySQL**|8.3.x|
+|**AWS S3**|storage_service|
+|**Docker**|v24.0.x|
+
 
 ### 🚏 `Web`
 |service|version|
