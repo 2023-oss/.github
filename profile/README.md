@@ -28,15 +28,9 @@
 
 ## 프로젝트 플로우차트
 ![](https://user-images.githubusercontent.com/83829352/266076494-7cd11b21-a114-434e-89b6-7890774c0506.png)
-<center>
-	<img src="https://user-images.githubusercontent.com/83829352/266076494-7cd11b21-a114-434e-89b6-7890774c0506.png" width=600px/>
-</center>
 
 ### 전체적인 흐름도
-![](https://user-images.githubusercontent.com/83829352/266088772-788c3104-a1b6-4f5d-9a63-721b5af9637e.png)
-<center>
-	<img src="https://user-images.githubusercontent.com/83829352/266088772-788c3104-a1b6-4f5d-9a63-721b5af9637e.png" width=900px/>
-</center>
+![](https://user-images.githubusercontent.com/83829352/266093392-af17dc2a-88f8-4446-a5e7-69ab55032fd4.jpg)
 
 ## ⚙️ 주요 오픈소스 사용정보
 ### 📊 `BlockChain`
