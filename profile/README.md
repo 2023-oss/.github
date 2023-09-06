@@ -16,10 +16,26 @@
 [Repository (GitHub)](https://github.com/2023-oss/OSS-WEB)
 ### 🕸️ 블록체인
 [Repository (GitHub)](https://github.com/2023-oss/OSS-PLATECHAIN)
+### :mag: Verifier Server
+[Repository(GitHub)](https://github.com/2023-oss/OSS-BACKEND)
+
+### ⚡ Issuer Server
+[Repository(GitHub](https://github.com/2023-oss/OSS-ISSUER)
 
 ## 아키텍처
 
 ![](https://user-images.githubusercontent.com/22852287/265968000-09658fac-4e28-4456-81d3-d64959ce978c.png)
+
+## 프로젝트 플로우차트
+
+<center>
+	<img src="https://user-images.githubusercontent.com/83829352/266076494-7cd11b21-a114-434e-89b6-7890774c0506.png" width=600px/>
+</center>
+
+### 전체적인 흐름도
+<center>
+	<img src="https://user-images.githubusercontent.com/83829352/266088772-788c3104-a1b6-4f5d-9a63-721b5af9637e.png" width=900px/>
+</center>
 
 ## ⚙️ 주요 오픈소스 사용정보
 ### 📊 `BlockChain`
@@ -36,9 +52,8 @@
 
 |service|version|
 |--|--|
-|**SpringBoots**|v2.7.x|
-|**JAVA**|v11|
-|**REDIS**|v3.0.x|
+|**SpringBoot**|v2.7.x|
+|**Redis**|v3.0.x|
 |**CoolSMS**|cloud_service|
 |**MySQL**|8.3.x|
 |**AWS S3**|storage_service|
@@ -60,7 +75,7 @@
 |**Figma**|web_service|
 
 ## 👪 팀 정보
-- 김채원 (chae401@naver.com), Github Id: chae401 (Server)
+- 김채원 (chae401@naver.com), Github Id: chae401 (Server, Web)
 
 - 강은솔 (eunsol2953@gmail.com), Github Id: eunsolkang (Blockchain, App)
 
