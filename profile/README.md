@@ -31,7 +31,7 @@
 ![](https://user-images.githubusercontent.com/83829352/266076494-7cd11b21-a114-434e-89b6-7890774c0506.png)
 
 ### 전체적인 흐름도
-![](https://user-images.githubusercontent.com/83829352/266093392-af17dc2a-88f8-4446-a5e7-69ab55032fd4.jpg)
+![](https://user-images.githubusercontent.com/83829352/266094215-16944ccc-321e-4531-974f-0148fe998f71.png)
 
 ## ⚙️ 주요 오픈소스 사용정보
 ### 📊 `BlockChain`
