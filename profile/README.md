@@ -20,7 +20,7 @@
 [Repository(GitHub)](https://github.com/2023-oss/OSS-BACKEND)
 
 ### ⚡ Issuer Server
-[Repository(GitHub](https://github.com/2023-oss/OSS-ISSUER)
+[Repository(GitHub)](https://github.com/2023-oss/OSS-ISSUER)
 
 ## 아키텍처
 
