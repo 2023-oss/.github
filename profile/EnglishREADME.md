@@ -47,8 +47,8 @@ There is a risk of personal information leakage when writing a consent form for 
 
 ## Project FlowChart
 ### DID란?
-Decentralized Identity(탈중앙 신원증명, DID)는 데이터의 주권을 개개인에게 부여하고 중앙화된 제 3자를 거치지 않고 인증에 성공할 수 있는 차세대 인증방식 입니다. 특정 기관이 신원 정보를 갖고 있는 것이 아니라, 블록체인에서 모든 블록에 신원이 분산되어 있습니다. <br/>
-DID를 통해 개인정보는 개인이 소유하고, 필요할 때 최소한의 정보만 활용할 수 있어 신원주권을 회복할 수 있습니다.
+Decentralized Identification (DID) is a next-generation authentication method that grants individuals the sovereignty of data and enables successful authentication without going through a centralized third party. Not a particular agency has identity information, but identity is distributed across all blocks in the blockchain.<br/>
+Through DID, personal information is owned by individuals and minimal information can be used when necessary, so identity sovereignty can be restored.
 ![](https://user-images.githubusercontent.com/83829352/266076494-7cd11b21-a114-434e-89b6-7890774c0506.png)
 
 ### OverAll FlowChart
@@ -90,7 +90,7 @@ DID를 통해 개인정보는 개인이 소유하고, 필요할 때 최소한의
 |**Flutter**|v3.x|
 |**Figma**|web_service|
 
-## 👪 팀 정보
+## 👪 Team
 - 김채원 (chae401@naver.com), Github Id: chae401 (Server, Web)
 
 - 강은솔 (eunsol2953@gmail.com), Github Id: eunsolkang (Blockchain, App)
@@ -99,8 +99,7 @@ DID를 통해 개인정보는 개인이 소유하고, 필요할 때 최소한의
 
 - 김수민 (haon0319@naver.com), Github Id: eunsolkang (Design)
 
-## ⚖️ 저작권 및 사용권 정보
-
+## ⚖️ Copyright and License
 * [GNU]([https://github.com/osamhack2022/CLOUD_APP_IOT_KeepYourEndeavor_Moment/blob/main/LICENSE](https://github.com/2023-oss/.github/blob/main/LICENSE))
 
 This project is licensed under the terms of the GNU license.
