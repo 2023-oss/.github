@@ -17,10 +17,10 @@
 ### 🕸️ 블록체인
 [Repository (GitHub)](https://github.com/2023-oss/OSS-PLATECHAIN)
 ### :mag: 기관 서버
-[Repository(GitHub)](https://github.com/2023-oss/OSS-BACKEND)
+[Repository (GitHub)](https://github.com/2023-oss/OSS-BACKEND)
 
 ### ⚡ 인증 서버
-[Repository(GitHub)](https://github.com/2023-oss/OSS-ISSUER)
+[Repository (GitHub)](https://github.com/2023-oss/OSS-ISSUER)
 <br/>
 <br/>
 ## 아키텍처
