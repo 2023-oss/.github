@@ -6,6 +6,25 @@
 사용자가 개인정보에 대한 주권을 가지고 개인이 관리하는 `SSI : Self Soverign Identifier 자기주권 신원` 개념을 활용하는  `DID : Decentralized Identifier 분산 식별자`  기반 개인정보 제출 시스템입니다.
 
 ## 서비스 소개
+
+<center>
+
+[<img  src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" width=150>](https://coral-piranha-fd5.notion.site/CustomSign-2521b412b83144498284b498f67f8a9d)
+
+
+[<img  src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white" width=165>](https://www.youtube.com/watch?si=hySRRINMpvC4hQV1&v=x4O0WdMcpEY&feature=youtu.be)
+
+</center>
+
+<center>
+
+[<img src="https://user-images.githubusercontent.com/83829352/266290884-d336e405-8138-4c94-b0bc-8b87b79a0b1e.png" width=170>](http://www.customsign.shop)
+
+**DemoID : theclimb01**
+**DemoPW : theclimb01!**
+
+</center>
+
 ### 📱 사용자 앱
 [Repository (GitHub)](https://github.com/2023-oss/OSS-APP)
 <p>
