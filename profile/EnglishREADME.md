@@ -22,6 +22,7 @@ In addition, it is an open source project using a public blockchain network deve
 
 ### 📱 User Application
 [Repository (GitHub)](https://github.com/2023-oss/OSS-APP)
+
 The Plate Wallet App provides users with the ability to keep personal information and submit it to the company if necessary.
 <p>
 <img src="https://user-images.githubusercontent.com/22852287/265966811-21446caf-4c1e-4e1a-b366-91f08a0a686d.png">
@@ -29,6 +30,9 @@ The Plate Wallet App provides users with the ability to keep personal informatio
 
 ### 🖥️ Institution page
 [Repository (GitHub)](https://github.com/2023-oss/OSS-WEB)
+
+It is a web service for companies or businesses that manage personal information agreements or institutional use agreements offline. The Drag and Drop method makes it easy to produce consent forms and digitally manage consent forms submitted by users.
+
 <p>
 <img src="https://github.com/2023-oss/OSS-WEB/assets/102888719/6a0ad2c5-1476-43f1-9a90-a124aab8376a">
 </p>
