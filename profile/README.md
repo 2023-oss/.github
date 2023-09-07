@@ -136,17 +136,11 @@ DID를 통해 개인정보는 개인이 소유하고, 필요할 때 최소한의
   
 
 |service|version|
-
 |--|--|
-
 |**NodeJS**|v14.x|
-
 |**NGINX**|v1.23.x|
-
 |**Docker Compose**|v20.x|
-
 |**Helia**|v3.2.x|
-
 |**Couchbase**|v2.x|
 
   
@@ -156,17 +150,11 @@ DID를 통해 개인정보는 개인이 소유하고, 필요할 때 최소한의
   
 
 |service|version|
-
 |--|--|
-
 |**SpringBoot**|v2.7.x|
-
 |**Redis**|v3.0.x|
-
 |**CoolSMS**|sms_service|
-
 |**MySQL**|8.3.x|
-
 |**Docker**|v24.0.x|
 
   
@@ -175,13 +163,9 @@ DID를 통해 개인정보는 개인이 소유하고, 필요할 때 최소한의
 ### 🚏 `Web`
 
 |service|version|
-
 |--|--|
-
 |**React**|v16.x|
-
 |**react-beautiful-dnd**|v4.x|
-
 |**styled-component**|v3.0.x|
 
   
@@ -191,11 +175,8 @@ DID를 통해 개인정보는 개인이 소유하고, 필요할 때 최소한의
   
 
 |service|version|
-
 |--|--|
-
 |**Flutter**|v3.x|
-
 |**Figma**|web_service|
 
   
