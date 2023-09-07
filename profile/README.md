@@ -98,6 +98,7 @@ DID 기능과 암호화폐 전송 기능을 갖춘 PoW 기반 퍼블릭 블록�
 
 ### :mag: 기관 서버
 동의서를 보관하고 VP 와 퍼블릭키를 통해서 검증하며 블록체인의 정보를 바탕으로 자동 파기를 담당합니다.
+
 [Repository (GitHub)](https://github.com/2023-oss/OSS-BACKEND)
 
   
