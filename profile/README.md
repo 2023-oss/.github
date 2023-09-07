@@ -1,10 +1,9 @@
 <p align="center">
 <a href="http://www.customsign.shop"><img width = "500px" src='https://user-images.githubusercontent.com/83829352/266327858-61f56df2-663a-4952-ab22-47936be470fa.png'/>
 </a>
-<br/>
-<br/>
 </p>
-
+<br/>
+<br/>
 <p align="center">
 <img src="https://img.shields.io/github/contributors/2023-oss/OSS-PLATECHAIN">
 <img src="https://img.shields.io/github/languages/count/2023-oss/OSS-PLATECHAIN">
@@ -12,6 +11,14 @@
 <img alt="GitHub license" src="https://img.shields.io/github/issues-closed/2023-oss/OSS-PLATECHAIN">
 <img src="https://img.shields.io/github/license/2023-oss/OSS-PLATECHAIN">
 </p>
+<p align="center">
+<a href="https://coral-piranha-fd5.notion.site/CustomSign-2521b412b83144498284b498f67f8a9d"><img  src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" width=90></a>
+<a href="https://www.youtube.com/watch?si=hySRRINMpvC4hQV1&v=x4O0WdMcpEY&feature=youtu.be"><img  src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white" width=95></a>
+<a href="http://www.customsign.shop"><img  src="https://user-images.githubusercontent.com/83829352/266290884-d336e405-8138-4c94-b0bc-8b87b79a0b1e.png" width=90></a>
+</p>
+
+<br/>
+<br/>
 
 # :lock: DID 기반 시설이용 동의서 생성 및 검증 시스템
 
