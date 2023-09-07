@@ -3,7 +3,7 @@ There is a risk of personal information leakage when writing a consent form for 
 
 **Our custom sign service** is a DID based personal information submission system that utilizes SSI(Self-Signature Identifier) which is managed by users with sovereignty over personal information And we also uses PlateChain, the open-source public blockchain we made..
 
-## 서비스 소개
+## Services
 <p align="center">
 <a href="https://coral-piranha-fd5.notion.site/CustomSign-2521b412b83144498284b498f67f8a9d"><img  src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" width=160></a>
 <a href="https://www.youtube.com/watch?si=hySRRINMpvC4hQV1&v=x4O0WdMcpEY&feature=youtu.be"><img  src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white" width=175></a>
@@ -14,13 +14,13 @@ There is a risk of personal information leakage when writing a consent form for 
 <b>DemoID : theclimb01 / DemoPW : theclimb01!</b>
 </p>
 
-### 📱 사용자 앱
+### 📱 User Application
 [Repository (GitHub)](https://github.com/2023-oss/OSS-APP)
 <p>
 <img src="https://user-images.githubusercontent.com/22852287/265966811-21446caf-4c1e-4e1a-b366-91f08a0a686d.png">
 </p>
 
-### 🖥️ 기관 페이지
+### 🖥️ Institution page
 [Repository (GitHub)](https://github.com/2023-oss/OSS-WEB)
 <p>
 <img src="https://github.com/2023-oss/OSS-WEB/assets/102888719/6a0ad2c5-1476-43f1-9a90-a124aab8376a">
@@ -29,14 +29,14 @@ There is a risk of personal information leakage when writing a consent form for 
 <img src="https://github.com/2023-oss/OSS-WEB/assets/102888719/ad414a3e-ce1f-4f4e-a886-cf741eeaa27b">
 </p>
 
-### 🕸️ 블록체인
+### 🕸️ BlockChain
 
 [Repository (GitHub)](https://github.com/2023-oss/OSS-PLATECHAIN)
-### :mag: 기관 서버
+### :mag: Institution Server
 
 [Repository (GitHub)](https://github.com/2023-oss/OSS-BACKEND)
 
-### ⚡ 인증 서버
+### ⚡ Verification Server
 [Repository (GitHub)](https://github.com/2023-oss/OSS-ISSUER)
 
 
