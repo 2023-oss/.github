@@ -63,6 +63,9 @@ We keep the consent form, verify it through VP and Public Key, and are in charge
 [Repository (GitHub)](https://github.com/2023-oss/OSS-BACKEND)
 
 ### ⚡ Verification Server
+
+creating and issuing VCs.
+
 [Repository (GitHub)](https://github.com/2023-oss/OSS-ISSUER)
 
 
