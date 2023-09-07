@@ -53,9 +53,8 @@ DID를 통해 개인정보는 개인이 소유하고, 필요할 때 최소한의
 |--|--|
 |**SpringBoot**|v2.7.x|
 |**Redis**|v3.0.x|
-|**CoolSMS**|cloud_service|
+|**CoolSMS**|sms_service|
 |**MySQL**|8.3.x|
-|**AWS S3**|storage_service|
 |**Docker**|v24.0.x|
 
 
