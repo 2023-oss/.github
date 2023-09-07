@@ -40,21 +40,21 @@ There is a risk of personal information leakage when writing a consent form for 
 [Repository (GitHub)](https://github.com/2023-oss/OSS-ISSUER)
 
 
-## 아키텍처
+## Architecture
 <br/>
 
 ![](https://user-images.githubusercontent.com/22852287/265968000-09658fac-4e28-4456-81d3-d64959ce978c.png)
 
-## 프로젝트 플로우차트
+## Project FlowChart
 ### DID란?
 Decentralized Identity(탈중앙 신원증명, DID)는 데이터의 주권을 개개인에게 부여하고 중앙화된 제 3자를 거치지 않고 인증에 성공할 수 있는 차세대 인증방식 입니다. 특정 기관이 신원 정보를 갖고 있는 것이 아니라, 블록체인에서 모든 블록에 신원이 분산되어 있습니다. <br/>
 DID를 통해 개인정보는 개인이 소유하고, 필요할 때 최소한의 정보만 활용할 수 있어 신원주권을 회복할 수 있습니다.
 ![](https://user-images.githubusercontent.com/83829352/266076494-7cd11b21-a114-434e-89b6-7890774c0506.png)
 
-### 전체적인 흐름도
+### OverAll FlowChart
 ![](https://user-images.githubusercontent.com/83829352/266094215-16944ccc-321e-4531-974f-0148fe998f71.png)
 
-## ⚙️ 주요 오픈소스 사용정보
+## ⚙️ Open Source Usage Information
 ### 📊 `BlockChain`
 
 |service|version|
