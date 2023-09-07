@@ -4,7 +4,7 @@ There is a risk of personal information leakage when writing a consent form for 
 <br/>
 The consent form for the use of facilities written in paper is inconvenient for business operators to manage, and it is cumbersome for users to fill out and submit it in paper.
 
-**Our custom sign service** is a 'DID' based personal information submission system that utilizes 'SSI(Self-Signature Identifier)' which is managed by users with sovereignty over personal information And we also uses PlateChain, the open-source public blockchain we made..
+**Our custom sign service** utilizes its own open-source public blockchain Plate Chainis a 'DID' based personal information submission system that utilizes 'SSI(Self-Signature Identifier)' which is managed by users with sovereignty over personal information And we also uses PlateChain, the open-source public blockchain we made..
 
 ## Services
 <p align="center">
