@@ -97,7 +97,7 @@ DID를 통해 개인정보는 개인이 소유하고, 필요할 때 최소한의
 
 - 강은솔 (eunsol2953@gmail.com), Github Id: eunsolkang (Blockchain, App)
 
-- 이창규 (mangoggul@gmail.com), Github Id: mangoggul (Web)
+- 이창규 (darkdon66@naver.com), Github Id: mangoggul (Web)
 
 - 김수민 (haon0319@naver.com), Github Id: eunsolkang (Design)
 
