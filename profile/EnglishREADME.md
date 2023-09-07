@@ -22,6 +22,7 @@ In addition, it is an open source project using a public blockchain network deve
 
 ### 📱 User Application
 [Repository (GitHub)](https://github.com/2023-oss/OSS-APP)
+The Plate Wallet App provides users with the ability to keep personal information and submit it to the company if necessary.
 <p>
 <img src="https://user-images.githubusercontent.com/22852287/265966811-21446caf-4c1e-4e1a-b366-91f08a0a686d.png">
 </p>
