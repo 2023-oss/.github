@@ -21,13 +21,13 @@
 [Repository (GitHub)](https://github.com/2023-oss/OSS-PLATECHAIN)
 ### :mag: 기관 서버
 [Repository (GitHub)](https://github.com/2023-oss/OSS-BACKEND)
-
+<br/>
 ### ⚡ 인증 서버
 [Repository (GitHub)](https://github.com/2023-oss/OSS-ISSUER)
 <br/>
-<br/>
-## 아키텍처
 
+## 아키텍처
+<br/>
 ![](https://user-images.githubusercontent.com/22852287/265968000-09658fac-4e28-4456-81d3-d64959ce978c.png)
 
 ## 프로젝트 플로우차트
