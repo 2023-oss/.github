@@ -58,6 +58,8 @@ It is a PoW-based public blockchain with DID function and cryptocurrency transfe
   
 ### :mag: Institution Server
 
+We keep the consent form, verify it through VP and Public Key, and are in charge of automatic destruction based on the information on the blockchain.
+
 [Repository (GitHub)](https://github.com/2023-oss/OSS-BACKEND)
 
 ### ⚡ Verification Server
