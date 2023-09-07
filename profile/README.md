@@ -15,9 +15,11 @@
 ### 🖥️ 기관 페이지
 [Repository (GitHub)](https://github.com/2023-oss/OSS-WEB)
 <p>
-<img src="https://github.com/2023-oss/OSS-WEB/assets/102888719/94d5ee9c-307b-47f4-9713-2ea080fbd199">
+<img src="https://github.com/2023-oss/OSS-WEB/assets/102888719/6a0ad2c5-1476-43f1-9a90-a124aab8376a">
 </p>
-
+<p>
+<img src="https://github.com/2023-oss/OSS-WEB/assets/102888719/ad414a3e-ce1f-4f4e-a886-cf741eeaa27b">
+</p>
 
 ### 🕸️ 블록체인
 
