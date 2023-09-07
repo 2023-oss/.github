@@ -84,10 +84,8 @@ Through DID, personal information is owned by individuals and minimal informatio
 ![](https://user-images.githubusercontent.com/83829352/266094215-16944ccc-321e-4531-974f-0148fe998f71.png)
 
 1.The user (Holder) and the issuer (Issuer) each generate a public key pair and send it to the blockchain network.
-
 2.The Holder receives a signed user qualification (VC) from a validated issuer.
-
-3. Qualifications issued by trusted organizations
+3.The user verifies the issued qualification (VC) with a public key on the blockchain, encrypts it on the personal device through biometric information or passwords, and stores it on the device if organizations is qualified.
 
 ## ⚙️ Open Source Usage Information
 ### 📊 `BlockChain`
