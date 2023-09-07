@@ -7,6 +7,8 @@ The consent form for the use of facilities written in paper is inconvenient for 
 **Our custom sign service** utilizes its own open-source public blockchain "Plate Chain" and it is a 'DID' based personal information submission system that utilizes 'SSI(Self-Signature Identifier)' which is managed by users with sovereignty over personal information.
 
 There are many Blockchain DID services currently in service, but if DID previously dealt with historical evidence and document reliability, our open source provides additional advantages by devising more automatic document destruction systems for privacy.
+
+In addition, it is an open source project using a public blockchain network developed directly without relying on other public blockchains (ex. Ethereum, Bitcoin), etc., so it can be applied lightly when there is a new idea or technology to be applied to DID.
 ## Services
 <p align="center">
 <a href="https://coral-piranha-fd5.notion.site/CustomSign-2521b412b83144498284b498f67f8a9d"><img  src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" width=160></a>
