@@ -46,7 +46,7 @@ There is a risk of personal information leakage when writing a consent form for 
 ![](https://user-images.githubusercontent.com/22852287/265968000-09658fac-4e28-4456-81d3-d64959ce978c.png)
 
 ## Project FlowChart
-### DID란?
+### What's DID?
 Decentralized Identification (DID) is a next-generation authentication method that grants individuals the sovereignty of data and enables successful authentication without going through a centralized third party. Not a particular agency has identity information, but identity is distributed across all blocks in the blockchain.<br/>
 Through DID, personal information is owned by individuals and minimal information can be used when necessary, so identity sovereignty can be restored.
 ![](https://user-images.githubusercontent.com/83829352/266076494-7cd11b21-a114-434e-89b6-7890774c0506.png)
