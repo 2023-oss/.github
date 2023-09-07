@@ -1,6 +1,16 @@
 <p align="center">
 <a href="http://www.customsign.shop"><img width = "500px" src='https://user-images.githubusercontent.com/83829352/266327858-61f56df2-663a-4952-ab22-47936be470fa.png'/>
 </a>
+<br/>
+<br/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/github/contributors/2023-oss/OSS-PLATECHAIN">
+<img src="https://img.shields.io/github/languages/count/2023-oss/OSS-PLATECHAIN">
+<img alt="GitHub license" src="https://img.shields.io/github/issues/2023-oss/OSS-PLATECHAIN">
+<img alt="GitHub license" src="https://img.shields.io/github/issues-closed/2023-oss/OSS-PLATECHAIN">
+<img src="https://img.shields.io/github/license/2023-oss/OSS-PLATECHAIN">
 </p>
 
 # :lock: DID 기반 시설이용 동의서 생성 및 검증 시스템
