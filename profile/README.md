@@ -43,12 +43,6 @@
 
 ## 서비스 소개
 
-<p  align="center">
-<a  href="https://coral-piranha-fd5.notion.site/CustomSign-2521b412b83144498284b498f67f8a9d"><img  src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"  width=160></a>
-<a  href="https://www.youtube.com/watch?si=hySRRINMpvC4hQV1&v=x4O0WdMcpEY&feature=youtu.be"><img  src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"  width=175></a>
-<a  href="http://www.customsign.shop"><img  src="https://user-images.githubusercontent.com/83829352/266290884-d336e405-8138-4c94-b0bc-8b87b79a0b1e.png"  width=150></a>
-</p>
-
 ### 📱 사용자 앱
 
 [Repository (GitHub)](https://github.com/2023-oss/OSS-APP)
