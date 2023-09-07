@@ -50,7 +50,12 @@ It is a web service for companies or businesses that manage personal information
 
 ### 🕸️ BlockChain
 
-[Repository (GitHub)](https://github.com/2023-oss/OSS-PLATECHAIN)
+It is a PoW-based public blockchain with DID function and cryptocurrency transfer function.
+
+-  You can see all blockchain transactions and blocks in [BlockChain Viewer](http://block.platechain.shop/).
+- [BlockChain Wallet](http://block.platechain.shop/) It is a blockchain wallet demo in PTC unit that is listed but allows you to check the remittance function and wallet function.
+![](https://user-images.githubusercontent.com/22852287/266316405-1a42dbd8-b4fa-452e-9488-5a82d89a47b3.png)
+  
 ### :mag: Institution Server
 
 [Repository (GitHub)](https://github.com/2023-oss/OSS-BACKEND)
